@@ -1,0 +1,5 @@
+[2026-04-20 15:00:31.178] [INF] [Main] LBS Studio starting...
+[2026-04-20 15:00:31.179] [INF] [Engine] Engine initialized.
+[2026-04-20 15:00:31.316] [WRN] [PluginManager] Plugin directory not found: plugins
+[2026-04-20 15:00:13.003] [INF] [Main] LBS Studio shutdown complete.
+[2026-04-20 15:00:13.007] [INF] [PluginManager] All plugins unloaded.
