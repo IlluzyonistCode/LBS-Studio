@@ -124,8 +124,8 @@ LBS Studio is a native C++ desktop application for screen capture and streaming,
 ### Installation
 
 ```sh
-git clone "https://github.com/IlluzyonistCode/LBS Studio"
-cd "LBS Studio"
+git clone "https://github.com/IlluzyonistCode/LBS-Studio"
+cd "LBS-Studio"
 qmake && make
 ```
 
@@ -139,9 +139,9 @@ qmake && make
 
 ## Contributing
 
-- [Report Issues](https://github.com/IlluzyonistCode/LBS Studio/issues)
-- [Submit Pull Requests](https://github.com/IlluzyonistCode/LBS Studio/pulls)
-- [Discussions](https://github.com/IlluzyonistCode/LBS Studio/discussions)
+- [Report Issues](https://github.com/IlluzyonistCode/LBS-Studio/issues)
+- [Submit Pull Requests](https://github.com/IlluzyonistCode/LBS-Studio/pulls)
+- [Discussions](https://github.com/IlluzyonistCode/LBS-Studio/discussions)
 
 ---
 
